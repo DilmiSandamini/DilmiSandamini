@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-### Hey, I'm <span id="name">Dusan Navidu</span> ✨
+### Hey, I'm <span id="name">Dilmi Sandamini</span> ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Views&color=brightgreen&style=flat-square)
 ![Forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
